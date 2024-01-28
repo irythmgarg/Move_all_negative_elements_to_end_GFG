@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ridhamgarg/Move_all_negative_elements_to_end",
+      "program": "/Users/ridhamgarg/Move_all_negative_elements_to_end/build/Debug/outDebug"
+    }
+  ]
+}
